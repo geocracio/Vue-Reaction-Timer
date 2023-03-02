@@ -15,7 +15,7 @@ export default {
     if (this.score < 250) {
       this.rank = 'Slow down! Are you mad?'
     } else if (this.score < 400) {
-      this.rank = 'Not bad for a baby!'
+      this.rank = 'Not bad for a baby!!'
     } else {
       this.rank = 'Are you a turtle?'
     }
